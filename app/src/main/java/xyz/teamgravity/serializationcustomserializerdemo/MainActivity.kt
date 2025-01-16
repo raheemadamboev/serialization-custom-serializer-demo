@@ -10,6 +10,7 @@ import androidx.compose.ui.Modifier
 import xyz.teamgravity.serializationcustomserializerdemo.ui.theme.SerializationCustomSerializerDemoTheme
 
 class MainActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
