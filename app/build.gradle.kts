@@ -56,9 +56,6 @@ dependencies {
     // compose lifecycle
     implementation(libs.compose.lifecycle)
 
-    // compose viewmodel
-    implementation(libs.compose.viewmodel)
-
     // core
     implementation(libs.core)
 

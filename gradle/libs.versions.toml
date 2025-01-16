@@ -3,7 +3,6 @@
 compose = "2025.01.00"
 compose-activity = "1.10.0"
 compose-lifecycle = "2.8.7"
-compose-viewmodel = "2.8.7"
 core = "1.15.0"
 serialization = "1.6.3"
 ktor = "2.3.12"
@@ -25,7 +24,6 @@ compose-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview" }
 compose-material3 = { group = "androidx.compose.material3", name = "material3" }
 compose-activity = { group = "androidx.activity", name = "activity-compose", version.ref = "compose-activity" }
 compose-lifecycle = { group = "androidx.lifecycle", name = "lifecycle-runtime-compose", version.ref = "compose-lifecycle" }
-compose-viewmodel = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-compose", version.ref = "compose-viewmodel" }
 core = { group = "androidx.core", name = "core-ktx", version.ref = "core" }
 serialization = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "serialization" }
 ktor-client-core = { group = "io.ktor", name = "ktor-client-core", version.ref = "ktor" }
